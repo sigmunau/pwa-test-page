@@ -1,6 +1,5 @@
 {
-  "name": "pwa-langtest",
-  "short_name": "pwa-langtest",
+  "name": "Barnehjemmet Ordliste",
   "icons": [
     {
       "src": "/pwa-test-page/static/img/icons/android-chrome-192x192.png",
